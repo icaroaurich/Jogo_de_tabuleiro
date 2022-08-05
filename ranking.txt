@@ -1,0 +1,12 @@
+2000,icaro
+1900,joao
+2100,rodrigo
+1500,jorjin
+1800,teste
+1200,cleitin
+0190,jose
+3000,carinha
+1500,pedepano
+0900,picapau
+2100,bbb
+770,icaro
