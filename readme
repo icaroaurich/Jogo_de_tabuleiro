@@ -1,0 +1,5 @@
+Executar o game.py
+O game cnosiste em perguntar um número de jogadores, 2, 3 ou 4.
+Após excolher, deve nomear os jogadores
+E cada jogador deve escolher seu personagem, com o mouse e clicar em avançar
+O jogo está com velocidade extremamente alta para facilitar nos testes mas pode ser alterado sem dificuldades no fonte(linhas 617, 621, 693 são as principais)
